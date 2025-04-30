@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "Worlds",
+		"slot": 1,
+		"description": "WORLDS 2025",
+		"platform": "V5",
+		"creationDate": "Tue, 29 Apr 2025 23:25:49 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240802_15_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.7.2025041600",
+		"json": 1
+	}
+}
